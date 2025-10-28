@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "GDG Study Jam 2025 ",
   description: "Learn, build, and grow with Google Cloud Skills at GDG on Campus Arka Jain University Study Jam 2025",
   icons: {
-    icon: "/favicon.png",
+    icon: "/favicon.ico",
   },
   generator: 'v0.app'
 }
