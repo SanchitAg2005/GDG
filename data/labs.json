@@ -1,0 +1,547 @@
+[
+  {
+    "id": "lab1",
+    "title": "The Basics of Google Cloud Compute",
+    "courseCode": "1",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "Create a Virtual Machine",
+        "video": "https://www.youtube.com/embed/WnzvbrpVmGM"
+      },
+      {
+        "id": "topic2",
+        "name": "Creating a Persistent Disk",
+        "video": "https://www.youtube.com/embed/jIgRdfTSulc"
+      },
+      {
+        "id": "topic3",
+        "name": "Host a Web App on Google Cloud Using Compute Engine",
+        "video": "https://www.youtube.com/embed/xCN4_jEAlhQ"
+      },
+      {
+        "id": "topic4",
+        "name": "The Basics of Google Cloud Compute: Challenge Lab",
+        "video": "https://www.youtube.com/embed/lfPE9wgNcoE"
+      }
+    ]
+  },
+  {
+    "id": "lab2",
+    "title": "Get Started with Cloud Storage",
+    "courseCode": "2",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "APIs Explorer: Cloud Storage",
+        "video": "https://www.youtube.com/embed/_EXwDwc1lss"
+      },
+      {
+        "id": "topic2",
+        "name": "Cloud Storage: Qwik Start - CLI/SDK",
+        "video": "https://www.youtube.com/embed/9TxP5iJX4Y4"
+      },
+      {
+        "id": "topic3",
+        "name": "Google Cloud Storage - Bucket Lock",
+        "video": "https://www.youtube.com/embed/QysDSc6NmhE"
+      },
+      {
+        "id": "topic4",
+        "name": "Get Started with Cloud Storage: Challenge Lab",
+        "video": "https://www.youtube.com/embed/9tVdkeqRkv0"
+      }
+    ]
+  },
+  {
+    "id": "lab3",
+    "title": "Get Started with Pub/Sub",
+    "courseCode": "3",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "Pub/Sub: Qwik Start - Console",
+        "video": "https://www.youtube.com/embed/r8pnC0kwt-8"
+      },
+      {
+        "id": "topic2",
+        "name": "Cloud Scheduler: Qwik Start",
+        "video": "https://www.youtube.com/embed/Dn-UmNK4U98"
+      },
+      {
+        "id": "topic3",
+        "name": "Get Started with Pub/Sub: Challenge Lab",
+        "video": "https://www.youtube.com/embed/rIEQsK1cGX0"
+      }
+    ]
+  },
+  {
+    "id": "lab4",
+    "title": "Get Started with API Gateway",
+    "courseCode": "4",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "API Gateway: Qwik Start",
+        "video": "https://www.youtube.com/embed/c7Dh7RX02oU"
+      },
+      {
+        "id": "topic2",
+        "name": "Pub/Sub: Qwik Start - Console",
+        "video": "https://www.youtube.com/embed/r8pnC0kwt-8"
+      },
+      {
+        "id": "topic3",
+        "name": "Cloud Run Functions: Qwik Start - Console",
+        "video": "https://www.youtube.com/embed/IBHFrTLcTY0"
+      },
+      {
+        "id": "topic4",
+        "name": "Get Started with API Gateway: Challenge Lab",
+        "video": "https://www.youtube.com/embed/zzhE0_JvSBU"
+      }
+    ]
+  },
+  {
+    "id": "lab5",
+    "title": "Get Started with Looker",
+    "courseCode": "5",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "Looker Studio: Qwik Start",
+        "video": "https://www.youtube.com/embed/ogy1QiHlWnE"
+      },
+      {
+        "id": "topic2",
+        "name": "Looker Data Explorer - Qwik Start",
+        "video": "https://www.youtube.com/embed/qrjcobR4puw"
+      },
+      {
+        "id": "topic3",
+        "name": "Looker Developer: Qwik Start",
+        "video": "https://www.youtube.com/embed/-ttNRL6P1Hw"
+      },
+      {
+        "id": "topic4",
+        "name": "Get Started with Looker: Challenge Lab",
+        "video": "https://www.youtube.com/embed/L1Bw0usnLGY"
+      }
+    ]
+  },
+  {
+    "id": "lab6",
+    "title": "Get Started with Dataplex",
+    "courseCode": "6",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "Dataplex: Qwik Start - Console",
+        "video": "https://www.youtube.com/embed/N6POT3KfXzY"
+      },
+      {
+        "id": "topic2",
+        "name": "Dataplex: Qwik Start - Command Line",
+        "video": "https://www.youtube.com/embed/sNixQ5n5gVM"
+      },
+      {
+        "id": "topic3",
+        "name": "Create and Add Aspects to Dataplex Assets",
+        "video": "https://www.youtube.com/embed/SGq69kIKMZU"
+      },
+      {
+        "id": "topic4",
+        "name": "Get Started with Dataplex: Challenge Lab",
+        "video": "https://www.youtube.com/embed/2mrIwJpuEGM"
+      }
+    ]
+  },
+  {
+    "id": "lab7",
+    "title": "Get Started with Google Workspace Tools",
+    "courseCode": "7",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "Level up your Google Workspace knowledge"
+      },
+      {
+        "id": "topic2",
+        "name": "Gmail: Getting Started",
+        "video": "https://www.youtube.com/embed/tEnaz69Yl-g"
+      },
+      {
+        "id": "topic3",
+        "name": "Google Calendar: Getting Started",
+        "video": "https://www.youtube.com/embed/15lQB7KG7MQ"
+      },
+      {
+        "id": "topic4",
+        "name": "Google Meet: Getting Started",
+        "video": "https://www.youtube.com/embed/tNazguWKSeY"
+      },
+      {
+        "id": "topic5",
+        "name": "Google Drive: Getting Started",
+        "video": "https://www.youtube.com/embed/zCKTipIxFlY"
+      },
+      {
+        "id": "topic6",
+        "name": "Google Sheets: Getting Started",
+        "video": "https://www.youtube.com/embed/0p2GcYyMqOE"
+      },
+      {
+        "id": "topic7",
+        "name": "Google AppSheet: Getting Started",
+        "video": "https://www.youtube.com/embed/aCCeL8CZK3g"
+      },
+      {
+        "id": "topic8",
+        "name": "Get Started with Google Workspace Tools: Challenge Lab",
+        "video": "https://www.youtube.com/embed/qrjcobR4puw"
+      }
+    ]
+  },
+  {
+    "id": "lab8",
+    "title": "App Building with Appsheet",
+    "courseCode": "8",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "Google AppSheet: Getting Started",
+        "video": "https://www.youtube.com/embed/aCCeL8CZK3g"
+      },
+      {
+        "id": "topic2",
+        "name": "Connect and Configure Data for your AppSheet App",
+        "video": "https://www.youtube.com/embed/RZuFjokELRk"
+      },
+      {
+        "id": "topic3",
+        "name": "Publish your AppSheet App",
+        "video": "https://www.youtube.com/embed/SQXAjjBPn3A"
+      },
+      {
+        "id": "topic4",
+        "name": "App Building with Appsheet: Challenge Lab",
+        "video": "https://www.youtube.com/embed/dDk2luM4EzI"
+      }
+    ]
+  },
+  {
+    "id": "lab9",
+    "title": "Develop with Apps Script and AppSheet",
+    "courseCode": "9",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "Develop No-Code Chat Apps with AppSheet",
+        "video": "https://www.youtube.com/embed/O2IUvuWqnjs"
+      },
+      {
+        "id": "topic2",
+        "name": "Introduction to Google Chat Bots with Apps Script",
+        "video": "https://www.youtube.com/embed/cx_PQjfUmQk"
+      },
+      {
+        "id": "topic3",
+        "name": "Google Apps Script: Access Google Sheets, Maps & Gmail in 4 Lines of Code",
+        "video": "https://www.youtube.com/embed/afvGRQGdDjg"
+      },
+      {
+        "id": "topic4",
+        "name": "Develop with Apps Script and AppSheet: Challenge Lab",
+        "video": "https://www.youtube.com/embed/IwZPImaa0Lg"
+      }
+    ]
+  },
+  {
+    "id": "lab10",
+    "title": "Build a Website on Google Cloud",
+    "courseCode": "10",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "Deploy Your Website on Cloud Run",
+        "video": "https://www.youtube.com/embed/QlyIb8tJsAg"
+      },
+      {
+        "id": "topic2",
+        "name": "Hosting a Web App on Google Cloud using Compute Engine (video)"
+      },
+      {
+        "id": "topic3",
+        "name": "Host a Web App on Google Cloud Using Compute Engine",
+        "video": "https://www.youtube.com/embed/xCN4_jEAlhQ"
+      },
+      {
+        "id": "topic4",
+        "name": "Deploy, Scale, and Update Your Website on Google Kubernetes Engine",
+        "video": "https://www.youtube.com/embed/bUt8Pzj2Gd0"
+      },
+      {
+        "id": "topic5",
+        "name": "Deploy, Scale, and Update Your Website on Google Kubernetes Engine",
+        "video": "https://www.youtube.com/embed/36WC7jipPIo"
+      },
+      {
+        "id": "topic6",
+        "name": "Case Study: Hosting Scalable web apps on Google Cloud"
+      },
+      {
+        "id": "topic7",
+        "name": "Build a Website on Google Cloud: Challenge Lab",
+        "video": "https://www.youtube.com/embed/3NUOcaJ_iJs"
+      }
+    ]
+  },
+  {
+    "id": "lab11",
+    "title": "Set Up a Google Cloud Network",
+    "courseCode": "11",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "Networking 101",
+        "video": "https://www.youtube.com/embed/7ND6JrHtFkQ"
+      },
+      {
+        "id": "topic2",
+        "name": "Create a Custom Network and Apply Firewall Rules",
+        "video": "https://www.youtube.com/embed/TUs0BfnszAA"
+      },
+      {
+        "id": "topic3",
+        "name": "Test Network Latency Betweem VMs",
+        "video": "hhttps://www.youtube.com/embed/Kdjm_82e-nk"
+      },
+      {
+        "id": "topic4",
+        "name": "Set Up a Google Cloud Network: Challenge Lab",
+        "video": "hhttps://www.youtube.com/embed/u_25OakBfIs"
+      }
+    ]
+  },
+  {
+    "id": "lab12",
+    "title": "Store, Process, and Manage Data on Google Cloud - Console",
+    "courseCode": "12",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "Cloud Storage: Qwik Start - Cloud Console",
+        "video": "https://www.youtube.com/embed/kdkzz4MiVrM"
+      },
+      {
+        "id": "topic2",
+        "name": "Cloud Run Functions: Qwik Start - Console",
+        "video": "https://www.youtube.com/embed/r-zpi8bFfFs"
+      },
+      {
+        "id": "topic3",
+        "name": "Pub/Sub: Qwik Start - Console",
+        "video": "https://www.youtube.com/embed/Vtf4dR1W2ss"
+      },
+      {
+        "id": "topic4",
+        "name": "Store, Process, and Manage Data on Google Cloud - Console: Challenge Lab",
+        "video": "https://www.youtube.com/embed/_aV2Ofzdmeo"
+      }
+    ]
+  },
+  {
+    "id": "lab13",
+    "title": "Cloud Functions: 3 Ways",
+    "courseCode": "13",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "Cloud Run Functions: Qwik Start - Console",
+        "video": "https://www.youtube.com/embed/eJEuMEsthXQ"
+      },
+      {
+        "id": "topic2",
+        "name": "Cloud Run Functions: Qwik Start - Command Line",
+        "video": "https://www.youtube.com/embed/JPHJv7HQ9O8"
+      },
+      {
+        "id": "topic3",
+        "name": "Cloud Run Functions: Qwik Start",
+        "video": "https://www.youtube.com/embed/4m9uHdxE9vY"
+      },
+      {
+        "id": "topic4",
+        "name": "Cloud Functions: 3 Ways - Challenge Lab",
+        "video": "https://www.youtube.com/embed/EG0xOIWv8oA"
+      }
+    ]
+  },
+  {
+    "id": "lab14",
+    "title": "App Engine: 3 Ways",
+    "courseCode": "14",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "App Engine: Qwik Start - Python",
+        "video": "https://www.youtube.com/embed/djQ7npgPI4c"
+      },
+      {
+        "id": "topic2",
+        "name": "App Engine: Qwik Start - Go",
+        "video": "https://www.youtube.com/embed/f7kP72RAF88"
+      },
+      {
+        "id": "topic3",
+        "name": "App Engine: Qwik Start - PHP",
+        "video": "https://www.youtube.com/embed/9ynKceRq2IY"
+      },
+      {
+        "id": "topic4",
+        "name": "App Engine: 3 Ways - Challenge Lab",
+        "video": "https://www.youtube.com/embed/EG0xOIWv8oA"
+      }
+    ]
+  },
+  {
+    "id": "lab15",
+    "title": "Cloud Speech API: 3 Ways",
+    "courseCode": "15",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "It Speaks! Create Synthetic Speech Using Text-to-Speech",
+        "video": "https://www.youtube.com/embed/kTkQW-esVcI"
+      },
+      {
+        "id": "topic2",
+        "name": "Translate Text with the Cloud Translation API",
+        "video": "https://www.youtube.com/embed/t2vleCOU1NE"
+      },
+      {
+        "id": "topic3",
+        "name": "Speech to Text Transcription with the Cloud Speech API",
+        "video": "https://www.youtube.com/embed/7EZHrY0fDp8"
+      },
+      {
+        "id": "topic4",
+        "name": "Cloud Speech API 3 Ways: Challenge Lab",
+        "video": "https://www.youtube.com/embed/X5v2CCyHNaA"
+      }
+    ]
+  },
+  {
+    "id": "lab16",
+    "title": "Monitoring in Google Cloud",
+    "courseCode": "16",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "Cloud monitoring: qwick start",
+        "video": "https://www.youtube.com/embed/5QurHI6uRmg"
+      },
+      {
+        "id": "topic2",
+        "name": "Monitoring and logging for cloud run functions",
+        "video": "https://www.youtube.com/embed/oDgJF7wVp3s"
+      },
+      {
+        "id": "topic3",
+        "name": "Monitor And Apache Web using ops agent",
+        "video": "https://www.youtube.com/embed/nILR1nKDx18"
+      },
+      {
+        "id": "topic4",
+        "name": "Monitoring in Google Cloud: Lab Challenge",
+        "video": "https://www.youtube.com/embed/rVYuk-qEqhs"
+      }
+    ]
+  },
+  {
+    "id": "lab17",
+    "title": "Analyze Speech and Language with Google APIs",
+    "courseCode": "17",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "Cloud Natural Language API: Qwik Start",
+        "video": "https://www.youtube.com/embed/gdTxNBBTrQE"
+      },
+      {
+        "id": "topic2",
+        "name": "Speech-to-Text API: Qwik Start",
+        "video": "https://www.youtube.com/embed/kNMPvoVwTBw"
+      },
+      {
+        "id": "topic3",
+        "name": "Entity and Sentiment Analysis with the Natural Language API",
+        "video": "https://www.youtube.com/embed/TfMy-ErZLKA"
+      },
+      {
+        "id": "topic4",
+        "name": "Analyze Speech & Language with Google APIs: Challenge Lab",
+        "video": "https://www.youtube.com/embed/75FktGg2fSo"
+      }
+    ]
+  },
+  {
+    "id": "lab18",
+    "title": "Prompt Design in Vertex AI",
+    "courseCode": "18",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "Generative AI with Vertex AI: Prompt Design",
+        "video": "https://www.youtube.com/embed/pItdm7vDVsQ"
+      },
+      {
+        "id": "topic2",
+        "name": "Get Started with Vertex AI Studio",
+        "video": "https://www.youtube.com/embed/MRxoTK45fdc"
+      },
+      {
+        "id": "topic3",
+        "name": "Getting Started with Google Generative AI Using the Gen AI SDK",
+        "video": "https://www.youtube.com/embed/2rS7YzeCR20"
+      },
+      {
+        "id": "topic4",
+        "name": "Prompt Design in Vertex AI: Challenge Lab",
+        "video": "https://www.youtube.com/embed/7yISoZuL2ZQ"
+      }
+    ]
+  },
+  {
+    "id": "lab19",
+    "title": "Develop GenAI Apps with Gemini and Streamlit",
+    "courseCode": "19",
+    "topics": [
+      {
+        "id": "topic1",
+        "name": "Getting Started with the Gemini API in Vertex AI with cURL",
+        "video": "https://www.youtube.com/embed/tD8LTuSzqqs"
+      },
+      {
+        "id": "topic2",
+        "name": "Introduction to Function Calling with Gemini",
+        "video": "https://www.youtube.com/embed/38N9KXSTUgQ"
+      },
+      {
+        "id": "topic3",
+        "name": "Getting Started with Google Generative AI Using the Gen AI SDK",
+        "video": "https://www.youtube.com/embed/2rS7YzeCR20"
+      },
+      {
+        "id": "topic4",
+        "name": "Utilize the Streamlit Framework with Cloud Run and the Gemini API in Vertex AI",
+        "video": "https://www.youtube.com/embed/QCuQ-4bFvYo"
+      },
+      {
+        "id": "topic5",
+        "name": "Develop GenAI Apps with Gemini and Streamlit: Challenge Lab",
+        "video": "https://www.youtube.com/embed/eX5sEVTtAts"
+      }
+    ]
+  }
+]

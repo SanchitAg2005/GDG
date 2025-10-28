@@ -1,0 +1,179 @@
+[
+  {
+    "lab": "The Basics of Google Cloud Compute",
+    "topics": [
+      "Create a Virtual Machine",
+      "Creating a Persistent Disk",
+      "Host a Web App on Google Cloud Using Compute Engine",
+      "The Basics of Google Cloud Compute: Challenge Lab"
+    ]
+  },
+  {
+    "lab": "Get Started with Cloud Storage",
+    "topics": [
+      "APIs Explorer: Cloud Storage",
+      "Cloud Storage: Qwik Start - CLI/SDK",
+      "Google Cloud Storage - Bucket Lock",
+      "Get Started with Cloud Storage: Challenge Lab"
+    ]
+  },
+  {
+    "lab": "Get Started with Pub/Sub",
+    "topics": [
+      "Pub/Sub: Qwik Start - Console",
+      "Cloud Scheduler: Qwik Start",
+      "Get Started with Pub/Sub: Challenge Lab"
+    ]
+  },
+  {
+    "lab": "Get Started with API Gateway",
+    "topics": [
+      "API Gateway: Qwik Start",
+      "Pub/Sub: Qwik Start - Console",
+      "Cloud Run Functions: Qwik Start - Console",
+      "Getting Started with API Gateway: Challenge Lab"
+    ]
+  },
+  {
+    "lab": "Get Started with Looker",
+    "topics": [
+      "Looker Studio: Qwik Start",
+      "Looker Data Explorer - Qwik Start",
+      "Looker Developer: Qwik Start",
+      "Get Started with Looker: Challenge Lab"
+    ]
+  },
+  {
+    "lab": "Get Started with Dataplex",
+    "topics": [
+      "Dataplex: Qwik Start - Console",
+      "Dataplex: Qwik Start - Command Line",
+      "Create and Add Aspects to Dataplex Assets",
+      "Get Started with Dataplex: Challenge Lab"
+    ]
+  },
+  {
+    "lab": "Get Started with Google Workspace Tools",
+    "topics": [
+      "Level up your Google Workspace knowledge",
+      "Gmail: Getting Started",
+      "Google Calendar: Getting Started",
+      "Google Meet: Getting Started",
+      "Google Drive: Getting Started",
+      "Google Sheets: Getting Started",
+      "Google AppSheet: Getting Started",
+      "Get Started with Google Workspace Tools: Challenge Lab"
+    ]
+  },
+  {
+    "lab": "App Building with AppSheet",
+    "topics": [
+      "Google AppSheet: Getting Started",
+      "Connect and Configure Data for your AppSheet App",
+      "Publish your AppSheet App",
+      "App Building with AppSheet: Challenge Lab"
+    ]
+  },
+  {
+    "lab": "Develop with Apps Script and AppSheet",
+    "topics": [
+      "Develop No-Code Chat Apps with AppSheet",
+      "Introduction to Google Chat Bots with Apps Script",
+      "Google Apps Script: Access Google Sheets, Maps & Gmail in 4 Lines of Code",
+      "Develop with Apps Script and AppSheet: Challenge Lab"
+    ]
+  },
+  {
+    "lab": "Build a Website on Google Cloud",
+    "topics": [
+      "Deploy Your Website on Cloud Run",
+      "Hosting a Web App on Google Cloud using Compute Engine (video)",
+      "Host a Web App on Google Cloud Using Compute Engine",
+      "Deploy, Scale, and Update Your Website on Google Kubernetes Engine",
+      "Case Study: Hosting Scalable web apps on Google Cloud",
+      "Build a Website on Google Cloud: Challenge Lab"
+    ]
+  },
+  {
+    "lab": "Set Up a Google Cloud Network",
+    "topics": [
+      "Networking 101",
+      "Create a Custom Network and Apply Firewall Rules",
+      "Test Network Latency Between VMs",
+      "Set Up a Google Cloud Network: Challenge Lab"
+    ]
+  },
+  {
+    "lab": "Store, Process, and Manage Data on Google Cloud - Console",
+    "topics": [
+      "Cloud Storage: Qwik Start - Cloud Console",
+      "Cloud Run Functions: Qwik Start - Console",
+      "Pub/Sub: Qwik Start - Console",
+      "Store, Process, and Manage Data on Google Cloud: Challenge Lab"
+    ]
+  },
+  {
+    "lab": "Cloud Run Functions: 3 Ways",
+    "topics": [
+      "Cloud Run Functions: Qwik Start - Console",
+      "Cloud Run Functions: Qwik Start - Command Line",
+      "Cloud Run Functions: Qwik Start",
+      "Cloud Run Functions: 3 Ways: Challenge Lab"
+    ]
+  },
+  {
+    "lab": "App Engine: 3 Ways",
+    "topics": [
+      "App Engine: Qwik Start - Python",
+      "App Engine: Qwik Start - Go",
+      "App Engine: Qwik Start - PHP",
+      "App Engine: 3 Ways: Challenge Lab"
+    ]
+  },
+  {
+    "lab": "Cloud Speech API: 3 Ways",
+    "topics": [
+      "It Speaks! Create Synthetic Speech Using Text-to-Speech",
+      "Translate Text with the Cloud Translation API",
+      "Speech to Text Transcription with the Cloud Speech API",
+      "Cloud Speech API 3 Ways: Challenge Lab"
+    ]
+  },
+  {
+    "lab": "Monitoring in Google Cloud",
+    "topics": [
+      "Cloud Monitoring: Qwik Start",
+      "Monitoring and Logging for Cloud Run Functions",
+      "Monitor an Apache Web Server using Ops Agent",
+      "Monitoring in Google Cloud: Challenge Lab"
+    ]
+  },
+  {
+    "lab": "Analyze Speech and Language with Google APIs",
+    "topics": [
+      "Cloud Natural Language API: Qwik Start",
+      "Speech-to-Text API: Qwik Start",
+      "Entity and Sentiment Analysis with the Natural Language API",
+      "Analyze Speech & Language with Google APIs: Challenge Lab"
+    ]
+  },
+  {
+    "lab": "Prompt Design in Vertex AI",
+    "topics": [
+      "Generative AI with Vertex AI: Prompt Design",
+      "Get Started with Vertex AI Studio",
+      "Getting Started with Google Generative AI Using the Gen AI SDK",
+      "Prompt Design in Vertex AI: Challenge Lab"
+    ]
+  },
+  {
+    "lab": "Develop Gen AI Apps with Gemini and Streamlit",
+    "topics": [
+      "Getting Started with the Gemini API in Vertex AI with cURL",
+      "Introduction to Function Calling with Gemini",
+      "Getting Started with Google Generative AI Using the Gen AI SDK",
+      "Utilize the Streamlit Framework with Cloud Run and the Gemini API in Vertex AI",
+      "Develop GenAI Apps with Gemini and Streamlit: Challenge Lab"
+    ]
+  }
+]
